@@ -1,16 +1,14 @@
-## Hi there 👋
+💫 About Me:
+Enthusiastic web developer focused on creating responsive, scalable, and user-friendly web applications. Skilled in Python, Django, HTML, CSS, JavaScript, and backend integration. Experienced in working on admin panels, bug fixing, API integration, and performance optimization. Always eager to learn, grow, and contribute to impactful development projects
 
-<!--
-**yatinchandok966-dot/yatinchandok966-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Python JavaScript HTML5 CSS3 Bootstrap Django Postgres MySQL Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
